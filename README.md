@@ -6,6 +6,7 @@ self-organzing life-like patterns.
 Direct test: http://blitz3dfr.free.fr/particle_life.html
 
 Based on: 
+
 https://www.youtube.com/watch?v=4vk7YvBYpOs
 
 https://www.youtube.com/watch?v=0Kx4Y9TVMGg
